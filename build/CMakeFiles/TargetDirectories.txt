@@ -1,0 +1,2 @@
+/home/jexy/CyberNexOS/build/CMakeFiles/edit_cache.dir
+/home/jexy/CyberNexOS/build/CMakeFiles/rebuild_cache.dir
